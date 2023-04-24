@@ -20,6 +20,7 @@ Hi there 👋 I'm Ahmed IDRISSI, a Software Engineering student at ENSIAS Rabat,
 <a href="https://github.com/ahmedidrissi"><img src="https://gpvc.arturio.dev/ahmedidrissi" alt="Profile views" align='right'/></a>  
 
 ## GitHub Stats
+<div align="center">
 
 |                                                                     Ahmed's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -32,3 +33,4 @@ Hi there 👋 I'm Ahmed IDRISSI, a Software Engineering student at ENSIAS Rabat,
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ahmedidrissi&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedidrissi&langs_count=8&theme=algolia&layout=compact&hide=html) |
 
+</div>
