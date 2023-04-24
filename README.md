@@ -31,8 +31,11 @@ Hi there 👋 I'm Ahmed IDRISSI, a Software Engineering student at ENSIAS Rabat,
 
 |                                                                     Ahmed's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Ahmed's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=ahmedidrissi&theme=github-dark&hide_border=true&area=true) |
-| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedidrissi&show_icons=true&theme=github_dark)              | 
-| ![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedidrissi&theme=github_dark)                    |
+| ![Ahmed's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=ahmedidrissi&count_private=true&theme=github-dark&hide_border=true&area=true) |
+| ![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedidrissi&count_private=true&theme=github_dark)                    |
 
 </div>
+
+<!--
+| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedidrissi&count_private=true&show_icons=true&theme=github_dark)              | 
+-->
