@@ -17,7 +17,7 @@ Hi there 👋 I'm Ahmed IDRISSI, a Software Engineering student at ENSIAS Rabat,
 
 <h1 align="center"></h1>
 
-<img src="https://gpvc.arturio.dev/ahmedidrissi" alt="Profile views" align='right'/> <a href="https://github.com/ahmedidrissi/ahmedidrissi"> </a> 
+<a href="https://github.com/ahmedidrissi"><img src="https://gpvc.arturio.dev/ahmedidrissi" alt="Profile views" align='right'/></a>  
 
 ## GitHub Stats
 
