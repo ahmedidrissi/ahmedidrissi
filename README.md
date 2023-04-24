@@ -20,10 +20,13 @@ Hi there 👋 I'm Ahmed IDRISSI, a Software Engineering student at ENSIAS Rabat,
 
 <br>
 <hr>
+<div>
+<a href="https://idrissiahmed.me"><img src="https://img.shields.io/badge/Portfolio-idrissiahmed.me-blue" alt="Profile views" align='left'/></a> 
+<a href="https://github.com/ahmedidrissi"><img src="https://gpvc.arturio.dev/ahmedidrissi" alt="Profile views" align='right'/></a>
+</div>
+<br>
 
-<a href="https://github.com/ahmedidrissi"><img src="https://gpvc.arturio.dev/ahmedidrissi" alt="Profile views" align='right'/></a>  
 
-## GitHub Stats
 <div align="center">
 
 |                                                                     Ahmed's Stats                                                                     |
