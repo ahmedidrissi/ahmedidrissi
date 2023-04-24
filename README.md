@@ -30,11 +30,6 @@ Hi there 👋 I'm Ahmed IDRISSI, a Software Engineering student at ENSIAS Rabat,
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Ahmed's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=ahmedidrissi&theme=github-dark&hide_border=true&area=true) |
 | ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedidrissi&show_icons=true&theme=github_dark)              | 
-| ![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedidrissi&theme=github_dark)                    | 
-    
-
-|                                                                                                      Ahmed's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=ahmedidrissi&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedidrissi&langs_count=8&theme=github_dark&layout=compact&hide=html) |
+| ![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedidrissi&theme=github_dark)                    |
 
 </div>
