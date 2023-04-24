@@ -1,8 +1,13 @@
+<img src="https://wallpapers.com/images/hd/programming-hd-nutnj7cgiprbs1j2.jpg" width="100%" height="300px">
+
+<hr>
 <h1 align="center">
   <b>Ahmed IDRISSI</b>
 </h1>
 
 Hi there 👋 I'm Ahmed IDRISSI, a Software Engineering student at ENSIAS Rabat, Morocco. I’m currently learning web development, machine learning and deep learning.
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-idrissi-87508a249/" target="_blank">
@@ -14,8 +19,7 @@ Hi there 👋 I'm Ahmed IDRISSI, a Software Engineering student at ENSIAS Rabat,
 </div>
 
 <br>
-
-<h1 align="center"></h1>
+<hr>
 
 <a href="https://github.com/ahmedidrissi"><img src="https://gpvc.arturio.dev/ahmedidrissi" alt="Profile views" align='right'/></a>  
 
