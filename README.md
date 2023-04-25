@@ -1,4 +1,4 @@
-<img src="https://wallpapers.com/images/hd/programming-hd-nutnj7cgiprbs1j2.jpg" width="100%" height="250px">
+<img src="linkedin_banner.png" width="100%">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">
@@ -21,10 +21,10 @@ Hi there 👋 I'm Ahmed IDRISSI, a Software Engineering student at National Scho
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-idrissi-87508a249/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/ahmedIdr02" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
 </p>
