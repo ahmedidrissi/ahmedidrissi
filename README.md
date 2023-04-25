@@ -1,4 +1,4 @@
-<img src="https://wallpapers.com/images/hd/programming-hd-nutnj7cgiprbs1j2.jpg" width="100%" height="300px">
+<img src="https://wallpapers.com/images/hd/programming-hd-nutnj7cgiprbs1j2.jpg" width="100%" height="250px">
 
 <hr>
 <h1 align="center">
@@ -33,9 +33,7 @@ Hi there 👋 I'm Ahmed IDRISSI, a Software Engineering student at ENSIAS Rabat,
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Ahmed's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=ahmedidrissi&count_private=true&theme=github-dark&hide_border=true&area=true) |
 | ![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedidrissi&count_private=true&theme=github_dark)                    |
+| [![ahmedidrissi's github stats](https://github-readme-stats.vercel.app/api?username=ahmedidrissi&show_icons=true&theme=github_dark)](https://github.com/ahmedidrissi/)              | 
 
 </div>
 
-<!--
-| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedidrissi&count_private=true&show_icons=true&theme=github_dark)              | 
--->
