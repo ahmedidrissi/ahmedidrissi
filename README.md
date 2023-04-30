@@ -1,6 +1,3 @@
-<img src="header.png" width="100%">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h1 align="center">Hi 👋, I'm Ahmed Idrissi</h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedidrissi" alt="ahmedidrissi" /></a> </p>
