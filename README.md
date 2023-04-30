@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Idrissi</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedidrissi" alt="ahmedidrissi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedidrissi" alt="ahmedidrissi" /></a> </p>
 
 <picture>
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameborder="0" class="giphy-embed" allowfullscreen="">
