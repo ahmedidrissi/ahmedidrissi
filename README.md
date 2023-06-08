@@ -33,7 +33,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
-<a href="https://idrissiahmed.me"><img src="https://img.shields.io/badge/Portfolio-idrissiahmed.me-blue" alt="Profile views" align='left'/></a> 
+<a href="https://idrissiahmed.me"><img src="https://img.shields.io/badge/Portfolio-idrissiahmed.me-blue" alt="Portfolio" align='left'/></a> 
 <a href="https://github.com/ahmedidrissi"><img src="https://gpvc.arturio.dev/ahmedidrissi" alt="Profile views" align='right'/></a>
 </div>
 <br>
