@@ -11,7 +11,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Idrissi</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedidrissi&title=Stars,Followers,PullRequest,Repositories,Commits,MultipleLang" alt="ahmedidrissi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedidrissi&title=Stars,Followers,PullRequest,Repositories,Commits,MultipleLang&theme=darkhub&margin-w=5&no-frame=true" alt="ahmedidrissi" /></a> </p>
 
 
 <picture>
