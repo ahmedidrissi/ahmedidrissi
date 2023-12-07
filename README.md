@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **web development, machine learning and deep learning.**
 
-- 👨‍💻 All of my projects are available at [https://idrissiahmed.me/](https://idrissiahmed.me/)
+- 👨‍💻 All of my projects are available at [https://ahmedidrissi.github.io/](https://ahmedidrissi.github.io/)
 
 - 📫 How to reach me **ahmed_idrissi4@um5.ac.ma**
 
