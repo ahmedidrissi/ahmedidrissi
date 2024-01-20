@@ -23,7 +23,7 @@
 <h3 align="left">A Software Engineering student at National School of Computer Science and Systems Analysis (ENSIAS) Rabat, Morocco.</h3>
 
 
-- 🌱 I’m currently learning **web development, machine learning and deep learning.**
+- 🌱 I'm passionate about **web development and artificial intelligence.**
 
 - 👨‍💻 All of my projects are available at [https://ahmedidrissi.github.io/](https://ahmedidrissi.github.io/)
 
