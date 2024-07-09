@@ -137,6 +137,9 @@
 <div href="https://idrissiahmed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ahmedidrissi-blue" alt="Portfolio" align='left'/></div> 
 
 <div align="right">
+  [![committers.top badge](https://user-badge.committers.top/morocco/ahmedidrissi.svg)](https://user-badge.committers.top/morocco/ahmedidrissi)
+</div>
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedidrissi.ahmedidrissi&left_text=views"  />
 </div>
 
