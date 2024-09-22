@@ -136,7 +136,7 @@
 
 #
 
-<div href="https://idrissiahmed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ahmedidrissi-blue" alt="Portfolio" align='left'/></div> 
+<a href="https://idrissiahmed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ahmedidrissi-blue" alt="Portfolio" align='left'/></a> 
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedidrissi.ahmedidrissi&left_text=views"  />
