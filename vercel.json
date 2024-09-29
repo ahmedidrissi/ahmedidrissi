@@ -1,0 +1,9 @@
+{
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "https://idrissiahmed.vercel.app",
+        "permanent": true
+      }
+    ]
+}
