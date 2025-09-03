@@ -18,7 +18,7 @@
 
 #
 
-<h3 align="left">A Software Engineering student at National School of Computer Science and Systems Analysis (ENSIAS) Rabat, Morocco.</h3>
+<h3 align="left">I'm a State Engineer in Software Engineering graduated from the  National School of Computer Science and Systems Analysis (ENSIAS) Rabat, Morocco.</h3>
 
 
 - 🌱 I'm passionate about **web development and artificial intelligence.**
@@ -29,7 +29,7 @@
 #
 
 <h3 align="left"><b>Connect with me:</b></h3> 
-<a href="https://linkedin.com/in/ahmed-idrissi-87508a249" target="_blank">
+<a href="https://linkedin.com/in/ahmedidrissi" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
 </a>
 
@@ -94,7 +94,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
@@ -114,13 +113,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="adobe photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
 
 #
