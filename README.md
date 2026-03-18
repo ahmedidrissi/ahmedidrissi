@@ -2,7 +2,7 @@
 <!-- [![committers.top badge](https://user-badge.committers.top/morocco_private/ahmedidrissi.svg)](https://user-badge.committers.top/morocco_private/ahmedidrissi) -->
 
 <picture>
-<img width="100%" src="https://idrissiahmed.vercel.app/pixel_art_1.gif"></img>
+<img width="100%" src="https://ahmedidrissi.com/pixel_art_1.gif"></img>
 </picture>
 
 #
